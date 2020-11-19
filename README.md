@@ -1,5 +1,5 @@
 # AFYU
-## Используемые библиотеки
+## Используемые библиотеки ESP8266
 ### [ESP8266WiFi](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi) 
 ### [ESP8266WebServer](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer) 
 ### [ESP8266mDNS](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266mDNS) 
@@ -14,4 +14,17 @@
 ### [Ticker](https://github.com/esp8266/Arduino/tree/master/libraries/Ticker) 
 ### [SPI](http://www.arduino.cc/en/Reference/SPI) 
 
-
+## Используемые библиотеки ESP32
+### [WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi) 
+### [Update](https://github.com/espressif/arduino-esp32/tree/master/libraries/Update) 
+### [ArduinoJson](https://arduinojson.org) 
+### [WiFiClient](https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/src/WiFiClient.h) 
+### [WebServer](https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer) 
+### [FS](https://github.com/espressif/arduino-esp32/tree/master/libraries/FS) 
+### [SPIFFS](https://github.com/espressif/arduino-esp32/tree/master/libraries/SPIFFS) 
+### [PubSubClient](https://github.com/Imroy/pubsubclient) 
+### [HTTPClient](https://github.com/espressif/arduino-esp32/tree/master/libraries/HTTPClient) 
+### [HTTPUpdate](https://github.com/espressif/arduino-esp32/tree/master/libraries/HTTPUpdate) 
+### [Ticker](https://github.com/espressif/arduino-esp32/tree/master/libraries/Ticker) 
+### []() 
+### []() 
